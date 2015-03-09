@@ -25,3 +25,5 @@ extrusion = 15;
 // Placement for the NEMA17 stepper motors.
 motor_offset = 44;
 motor_length = 47;
+
+chamfer_width = 1;
